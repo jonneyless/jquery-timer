@@ -1,0 +1,18 @@
+{
+  "name": "jquery-timer",
+  "main": "dist/jquery.timer.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jonneyless/jquery-timer",
+  "authors": [
+    "Jony Young <jonneyless@163.com>"
+  ],
+  "description": "Timer base Jquery",
+  "keywords": [
+    "jquery",
+    "timer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "package.json"
+  ]
+}
